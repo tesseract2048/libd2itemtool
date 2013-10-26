@@ -1,0 +1,6 @@
+LIBRARY D2ItemTool
+EXPORTS
+	xhg_readcsv
+	xhg_xchg
+	item_readcsv
+	item_appendfromfile
